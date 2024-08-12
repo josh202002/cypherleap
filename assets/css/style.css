@@ -541,7 +541,7 @@ textarea:-ms-input-placeholder {
   display: inline-block;
   overflow: hidden;
   transform: perspective(0) translateZ(0);
-  background: linear-gradient(195deg, #7327d4 0%, #e65f96 100%);
+  background: linear-gradient(195deg, #7327d4 100%, #e65f96 0%);
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
   border-color: transparent;
   color: #ffffff;
@@ -4141,7 +4141,7 @@ textarea:-ms-input-placeholder {
   display: inline-block;
   text-align: center;
   border-radius: 50%;
-  background: linear-gradient(240deg, #7327d4 0%, #e65f96 100%);
+  background: linear-gradient(240deg, #7327d4 10%, #e65f96 100%);
   color: #ffffff;
   transition: all 0.3s linear;
 }
@@ -4191,7 +4191,7 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-about-section .about-content-wrap .play-btn a:hover i {
-  background: linear-gradient(180deg, #7327d4 0%, #e65f96 100%);
+  background: linear-gradient(180deg, #7327d4 100%, #e65f96 0%);
 }
 
 @media only screen and (max-width: 1199px) {
@@ -4636,7 +4636,7 @@ textarea:-ms-input-placeholder {
   text-align: center;
   position: relative;
   border-radius: 50%;
-  background: linear-gradient(240deg, #7327d4 0%, #e65f96 100%);
+  background: linear-gradient(240deg, #7327d4 100%, #e65f96 0%);
   color: #ffffff;
   transition: all 0.3s linear;
 }
@@ -4678,7 +4678,7 @@ textarea:-ms-input-placeholder {
 }
 
 .play-btn-02 a:hover {
-  background: linear-gradient(180deg, #7327d4 0%, #e65f96 100%);
+  background: linear-gradient(180deg, #7327d4 100%, #e65f96 0%);
 }
 
 @media only screen and (max-width: 1199px) {
