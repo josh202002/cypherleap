@@ -47,7 +47,7 @@
 /*  01. Theme default CSS
 /*----------------------------------------*/
 /*-- Google Font --*/
-@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Jost:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Jost:wght@300;400;500&display=swap");
 /*-- Common Style --*/
 *, *::after, *::before {
   box-sizing: border-box;
@@ -59,7 +59,7 @@ body {
   font-size: 14px;
   line-height: 1.75;
   font-weight: 400;
-  font-family: "Jost", sans-serif;
+  font-family: "Jost", Outfit;
   color: #4c4d56;
   outline: none;
   visibility: visible;
@@ -74,7 +74,7 @@ body[dir="rtl"] {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #0e0e0e;
   font-weight: 700;
   margin-top: 0;
@@ -266,7 +266,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .section-title .title {
   font-size: 48px;
   line-height: 54px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #0e0e0e;
 }
@@ -285,7 +285,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .section-title .sub-title {
   font-size: 14px;
   line-height: 30px;
-  font-family: "Jost", sans-serif;
+  font-family: "Jost", Outfit;
   font-weight: 500;
   color: #7327d4;
   letter-spacing: 1px;
@@ -314,7 +314,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .section-title2 .title {
   font-size: 48px;
   line-height: 54px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 800;
   color: #333333;
 }
@@ -340,7 +340,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .section-title2 .sub-title {
   font-size: 12px;
   line-height: 30px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 800;
   color: #a1a1a1;
   text-transform: uppercase;
@@ -350,7 +350,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .section-title2 p {
   font-size: 16px;
   line-height: 30px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #4c4d56;
   padding: 0 50px;
@@ -547,7 +547,7 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
   border-radius: 5px;
   font-size: 18px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 700;
   height: 60px;
   line-height: 56px;
@@ -759,7 +759,7 @@ textarea:-ms-input-placeholder {
 
 .header-menu .main-menu li a {
   font-size: 15px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 700;
   text-transform: capitalize;
   color: #0e0e0e;
@@ -819,7 +819,7 @@ textarea:-ms-input-placeholder {
 .header-menu .main-menu li .sub-menu li a {
   padding: 5px 25px;
   font-size: 15px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   text-transform: capitalize;
   display: block;
@@ -1833,7 +1833,7 @@ textarea:-ms-input-placeholder {
   display: block;
   font-size: 16px;
   font-weight: 600;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #ffffff;
   padding: 5px 0px;
   position: relative;
@@ -1921,7 +1921,7 @@ textarea:-ms-input-placeholder {
 .techwix-hero-section .hero-content .sub-title {
   font-size: 18px;
   line-height: 30px;
-  font-family: "Jost", sans-serif;
+  font-family: "Jost", Outfit;
   font-weight: 600;
   letter-spacing: 1px;
   height: 45px;
@@ -1940,7 +1940,7 @@ textarea:-ms-input-placeholder {
   height: 35px;
   line-height: 33px;
   font-size: 16px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   background: #7327d4;
   color: #ffffff;
@@ -2089,7 +2089,7 @@ textarea:-ms-input-placeholder {
 .techwix-hero-section-02 .hero-content .sub-title {
   font-size: 24px;
   line-height: 36px;
-  font-family: "Jost", sans-serif;
+  font-family: "Jost", Outfit;
   font-weight: 400;
   color: #ffffff;
 }
@@ -3748,7 +3748,7 @@ textarea:-ms-input-placeholder {
 .techwix-cta-section-03 .cta-wrap .cta-info p {
   font-size: 18px;
   line-height: 30px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 500;
   color: #ffffff;
   margin-top: 10px;
@@ -3877,7 +3877,7 @@ textarea:-ms-input-placeholder {
 .techwix-cta-section-04 .cta-right .counter-item span {
   font-size: 48px;
   line-height: 26px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #11ddf5;
 }
@@ -3991,7 +3991,7 @@ textarea:-ms-input-placeholder {
 .techwix-cta-section-06 .cta-info .cta-text p {
   font-size: 18px;
   line-height: 30px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 500;
   color: #ffffff;
 }
@@ -4148,7 +4148,7 @@ textarea:-ms-input-placeholder {
 
 .techwix-about-section .about-content-wrap .play-btn a span {
   font-size: 24px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #ffffff;
   margin-left: 30px;
@@ -4328,7 +4328,7 @@ textarea:-ms-input-placeholder {
 .about-list ul li {
   font-size: 16px;
   line-height: 36px;
-  font-family: "Jost", sans-serif;
+  font-family: "Jost", Outfit;
   font-weight: 500;
   color: #333333;
 }
@@ -4899,7 +4899,7 @@ textarea:-ms-input-placeholder {
 .techwix-about-section-06 .about-content-wrap .about-list-wrap .about-list li a {
   font-size: 20px;
   line-height: 30px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 500;
   color: #0e0e0e;
 }
@@ -5123,7 +5123,7 @@ textarea:-ms-input-placeholder {
 .single-counter .counter-content span {
   font-size: 40px;
   line-height: 26px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 700;
   color: #7327d4;
 }
@@ -5212,7 +5212,7 @@ textarea:-ms-input-placeholder {
 .single-counter-02 span {
   font-size: 50px;
   line-height: 30px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 700;
   color: #7327d4;
 }
@@ -5715,7 +5715,7 @@ textarea:-ms-input-placeholder {
 .brand-title {
   font-size: 26px;
   font-weight: 500;
-  font-family: "Jost", sans-serif;
+  font-family: "Jost", Outfit;
   color: #4c4d56;
   margin-top: -7px;
 }
@@ -5818,7 +5818,7 @@ textarea:-ms-input-placeholder {
 .counter-bar .skill-item .title {
   font-size: 14px;
   line-height: 45px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #120e1d;
 }
@@ -6152,7 +6152,7 @@ textarea:-ms-input-placeholder {
 .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .sub-title {
   font-size: 14px;
   line-height: 30px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 700;
   text-transform: uppercase;
   color: #ff5538;
@@ -6194,7 +6194,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
 }
 
@@ -6202,7 +6202,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
 }
 
@@ -6210,7 +6210,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
 }
 
@@ -6218,7 +6218,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
 }
 
@@ -6233,7 +6233,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
 }
 
@@ -6241,7 +6241,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
 }
 
@@ -6249,7 +6249,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
 }
 
@@ -6257,7 +6257,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
 }
 
@@ -6480,7 +6480,7 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
   padding: 0 40px;
   font-size: 16px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 700;
   border-top-right-radius: 4px;
   border-bottom-right-radius: 4px;
@@ -6767,7 +6767,7 @@ textarea:-ms-input-placeholder {
 .techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button .title {
   font-size: 22px;
   color: #0e0e0e;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   display: inline-block;
   font-weight: 600;
   text-transform: capitalize;
@@ -7095,7 +7095,7 @@ textarea:-ms-input-placeholder {
   font-size: 14px;
   line-height: 18px;
   border-radius: 5px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   display: inline-block;
   text-align: center;
   line-height: 12px;
@@ -7164,7 +7164,7 @@ textarea:-ms-input-placeholder {
 
 .single-blog .blog-btn .blog-btn-link {
   font-size: 12px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #7327d4;
   letter-spacing: 1px;
@@ -7490,7 +7490,7 @@ textarea:-ms-input-placeholder {
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-badge .title {
   font-size: 36px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #0e0e0e;
 }
@@ -7510,7 +7510,7 @@ textarea:-ms-input-placeholder {
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .currency {
   font-size: 30px;
   line-height: 54px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #7327d4;
   display: inline-block;
@@ -7527,7 +7527,7 @@ textarea:-ms-input-placeholder {
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price {
   font-size: 90px;
   line-height: 54px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   display: inline-block;
   color: #7327d4;
@@ -7871,7 +7871,7 @@ textarea:-ms-input-placeholder {
 .page-banner .title {
   font-size: 60px;
   line-height: 1.25;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   display: inline-block;
   font-weight: 600;
   color: #ffffff;
@@ -7999,7 +7999,7 @@ textarea:-ms-input-placeholder {
 
 .single-blog-post.single-blog .blog-btn .blog-btn-link {
   font-size: 12px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #7327d4;
   letter-spacing: 1px;
@@ -8063,7 +8063,7 @@ textarea:-ms-input-placeholder {
 .sidebar-widget .search-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-webkit-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #898c94;
   font-weight: 400;
 }
@@ -8071,7 +8071,7 @@ textarea:-ms-input-placeholder {
 .sidebar-widget .search-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-moz-placeholder {
   opacity: 0.95;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #898c94;
   font-weight: 400;
 }
@@ -8079,7 +8079,7 @@ textarea:-ms-input-placeholder {
 .sidebar-widget .search-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-moz-placeholder {
   opacity: 0.95;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #898c94;
   font-weight: 400;
 }
@@ -8087,7 +8087,7 @@ textarea:-ms-input-placeholder {
 .sidebar-widget .search-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #898c94;
   font-weight: 400;
 }
@@ -8118,7 +8118,7 @@ textarea:-ms-input-placeholder {
 
 .sidebar-widget .widget-title .title {
   font-size: 20px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 700;
   color: #0e0e0e;
   display: inline-block;
@@ -8157,14 +8157,14 @@ textarea:-ms-input-placeholder {
 .sidebar-widget .recent-posts ul li .post-link .post-text .title {
   font-size: 16px;
   line-height: 18px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   transition: all 0.3s linear;
 }
 
 .sidebar-widget .recent-posts ul li .post-link .post-text .post-meta {
   font-size: 12px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
   line-height: 24px;
   color: #838383;
@@ -8224,7 +8224,7 @@ textarea:-ms-input-placeholder {
 .sidebar-widget .category .cate-item a {
   display: flex;
   font-size: 15px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 500;
   color: #29303c;
   transition: all 0.3s linear;
@@ -8247,7 +8247,7 @@ textarea:-ms-input-placeholder {
   border-radius: 50%;
   background: #e4f2f8;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
   color: #7327d4;
   transition: all 0.3s linear;
@@ -8273,7 +8273,7 @@ textarea:-ms-input-placeholder {
   border-radius: 5px;
   padding: 8px 15px;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 400;
   color: #666666;
   line-height: 18px;
@@ -8402,7 +8402,7 @@ textarea:-ms-input-placeholder {
 .blog-details-post .blog-details-content .blog-quote .blockquote p {
   display: inline;
   font-size: 18px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #333333;
   line-height: 32px;
   font-weight: 600;
@@ -8438,7 +8438,7 @@ textarea:-ms-input-placeholder {
 .blog-details-post .blog-details-content .blog-details-tag-share .blog-details-tag .sidebar-widget .label {
   font-size: 14px;
   line-height: 30px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 700;
   color: #333333;
   margin-right: 10px;
@@ -8641,7 +8641,7 @@ textarea:-ms-input-placeholder {
 .blog-details-post .blog-details-content .comment-wrap .comment-form .comment-form-wrap .single-form .form-control::-webkit-input-placeholder {
   opacity: 0.95;
   font-size: 13px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #9d9d9d;
   font-weight: 400;
 }
@@ -8649,7 +8649,7 @@ textarea:-ms-input-placeholder {
 .blog-details-post .blog-details-content .comment-wrap .comment-form .comment-form-wrap .single-form .form-control:-moz-placeholder {
   opacity: 0.95;
   font-size: 13px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #9d9d9d;
   font-weight: 400;
 }
@@ -8657,7 +8657,7 @@ textarea:-ms-input-placeholder {
 .blog-details-post .blog-details-content .comment-wrap .comment-form .comment-form-wrap .single-form .form-control::-moz-placeholder {
   opacity: 0.95;
   font-size: 13px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #9d9d9d;
   font-weight: 400;
 }
@@ -8665,7 +8665,7 @@ textarea:-ms-input-placeholder {
 .blog-details-post .blog-details-content .comment-wrap .comment-form .comment-form-wrap .single-form .form-control:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 13px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #9d9d9d;
   font-weight: 400;
 }
@@ -8734,7 +8734,7 @@ textarea:-ms-input-placeholder {
 .login-register-section .login-register-wrap .login-register-box .login-register-form .single-form .form-control::-webkit-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #787884;
   font-weight: 400;
 }
@@ -8742,7 +8742,7 @@ textarea:-ms-input-placeholder {
 .login-register-section .login-register-wrap .login-register-box .login-register-form .single-form .form-control:-moz-placeholder {
   opacity: 0.95;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #787884;
   font-weight: 400;
 }
@@ -8750,7 +8750,7 @@ textarea:-ms-input-placeholder {
 .login-register-section .login-register-wrap .login-register-box .login-register-form .single-form .form-control::-moz-placeholder {
   opacity: 0.95;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #787884;
   font-weight: 400;
 }
@@ -8758,7 +8758,7 @@ textarea:-ms-input-placeholder {
 .login-register-section .login-register-wrap .login-register-box .login-register-form .single-form .form-control:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   color: #787884;
   font-weight: 400;
 }
@@ -8885,7 +8885,7 @@ textarea:-ms-input-placeholder {
 .widget-info ul li .info-text {
   font-size: 16px;
   line-height: 20px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #c4c5c7;
 }
@@ -8937,7 +8937,7 @@ textarea:-ms-input-placeholder {
 
 .footer-widget .footer-widget-title {
   font-size: 20px;
-  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", Outfit;
   font-weight: 600;
   color: #ffffff;
 }
