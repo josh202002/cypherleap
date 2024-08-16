@@ -155,7 +155,7 @@ a:focus {
 
 a:hover {
   text-decoration: none;
-  color: #7327d4;
+  color: #2f0d5b;
 }
 
 ul, ol {
@@ -287,7 +287,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   line-height: 30px;
   font-family: "Jost", Outfit;
   font-weight: 500;
-  color: #7327d4;
+  color: #2f0d5b;
   letter-spacing: 1px;
   text-transform: uppercase;
   margin-bottom: 12px;
@@ -541,7 +541,7 @@ textarea:-ms-input-placeholder {
   display: inline-block;
   overflow: hidden;
   transform: perspective(0) translateZ(0);
-  background: linear-gradient(195deg, #7327d4 100%, #e65f96 0%);
+  background: linear-gradient(195deg, #000000 100%, #e65f96 0%);
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
   border-color: transparent;
   color: #ffffff;
@@ -766,7 +766,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-menu .main-menu li.active-menu > a {
-  color: #7327d4;
+  color: #2f0d5b;
 }
 
 .header-menu .main-menu li.active-menu > .menu-icon::after {
@@ -787,7 +787,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-menu .main-menu li:hover > a {
-  color: #7327d4;
+  color: #2f0d5b;
 }
 
 .header-menu .main-menu li:hover > .sub-menu {
@@ -2835,7 +2835,7 @@ textarea:-ms-input-placeholder {
   background: #ffffff;
   box-shadow: 0px 43px 100px 0px rgba(0, 0, 0, 0.13);
   border-radius: 10px;
-  border-top: 10px solid #7327d4;
+  border-top: 10px solid #2f0d5b;
   transform: translate3d(0, 0, 0);
   padding: 30px 40px 40px;
   margin-top: 30px;
@@ -3625,7 +3625,7 @@ textarea:-ms-input-placeholder {
 
 .techwix-cta-section .cta-wrap .cta-content p a {
   font-weight: 600;
-  color: #7327d4;
+  color: #2f0d5b;
 }
 
 .techwix-cta-section .cta-wrap .cta-content p a:hover {
@@ -4100,7 +4100,7 @@ textarea:-ms-input-placeholder {
   position: absolute;
   width: 9px;
   height: 235px;
-  background: #7327d4;
+  background: #2f0d5b;
   right: 10px;
   bottom: -270px;
 }
@@ -4335,7 +4335,7 @@ textarea:-ms-input-placeholder {
 
 .about-list ul li i {
   font-size: 16px;
-  color: #7327d4;
+  color: #2f0d5b;
   margin-right: 10px;
 }
 
