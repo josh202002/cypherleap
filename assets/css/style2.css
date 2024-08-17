@@ -32,3 +32,6 @@
     .svgimg{
         background-color: rgb(242, 243, 245);
     }
+    #bgimg{
+        filter: blur(100px);
+    }
