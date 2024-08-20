@@ -1896,7 +1896,7 @@ textarea:-ms-input-placeholder {
 /*  03 - Hero CSS
 /*----------------------------------------*/
 .techwix-hero-section {
-  background: #f0f0f0;
+  background: #ffffff;
   overflow: hidden;
   position: relative;
   padding-top: 85px;
@@ -5655,7 +5655,7 @@ textarea:-ms-input-placeholder {
   position: absolute;
   left: 0;
   top: 0;
-  background: #7327d4;
+  background: #a77fdd;
   width: 135px;
   height: 135px;
   border-radius: 10px;
