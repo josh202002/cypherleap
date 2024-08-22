@@ -418,7 +418,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background-color: #7327d4;
+  background-color: #2f0d5b;
   -webkit-animation: preloader 1.3s linear infinite;
           animation: preloader 1.3s linear infinite;
 }
@@ -698,11 +698,11 @@ textarea:-ms-input-placeholder {
 }
 
 .btn-white::after {
-  background: #7327d4;
+  background: #2f0d5b;
 }
 
 .btn-white::before {
-  background: #7327d4;
+  background: #2f0d5b;
 }
 
 /*----------------------------------------*/
@@ -5680,7 +5680,7 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-testimonial-section-03 .testimonial-02-active .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background-color: #7327d4;
+  background-color: #2f0d5b;
 }
 
 .techwix-testimonial-section-04 {
@@ -5980,7 +5980,8 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-skill-section-02 .skill-right .counter-bar .skill-item .skill-bar .bar-inner .progress-line {
-  background: #7327d4;
+  background: #2f0d5b;
+  
 }
 
 @media only screen and (max-width: 1199px) {
@@ -7584,7 +7585,8 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active {
-  background: linear-gradient(-180deg, #43baff 0%, #7141b1 100%);
+  background:#f8f8f8;
+  
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active::before {
@@ -7592,11 +7594,11 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-badge .title {
-  color: #ffffff;
+  color: #000000;
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .currency {
-  color: #ffffff;
+  color: #4c4d56;
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .price {
@@ -7604,15 +7606,15 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .price span {
-  color: #ffffff;
+  color: #4c4d56;
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-list li {
-  color: #ffffff;
+  color: #4c4d56;
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-list li i {
-  color: #ffffff;
+  color: #4c4d56;
 }
 
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-btn .pricing-contact {
