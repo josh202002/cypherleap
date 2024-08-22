@@ -35,3 +35,11 @@
     #bgimg{
         filter: blur(100px);
     }
+    .about-img1{
+        width:600;
+        height:600;
+    }
+    .indexhero{
+        width:585px;
+        height:426px;
+    }
