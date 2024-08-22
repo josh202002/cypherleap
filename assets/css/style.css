@@ -213,7 +213,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 @media only screen and (max-width: 767px) {
   .section-padding {
-    padding-top: 60px;
+    padding-top: 90px;
     padding-bottom: 60px;
   }
 }
@@ -9045,7 +9045,7 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-logo {
-  max-width: 170px;
+  max-width: 200px;
 }
 
 .footer-copyright-area {

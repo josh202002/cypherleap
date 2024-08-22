@@ -43,3 +43,43 @@
         width:585px;
         height:426px;
     }
+
+    .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form select:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
+        height: 55px;
+        line-height: 55px;
+        border: 1px solid #ebebeb;
+        padding-left: 15px;
+        width:100%;
+      }
+      
+      .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form select:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-webkit-input-placeholder {
+        opacity: 0.95;
+        font-size: 14px;
+        color: #4c4d56;
+        font-family: "Outfit", Outfit;
+        font-weight: 400;
+      }
+      
+      .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form select:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-moz-placeholder {
+        opacity: 0.95;
+        font-size: 14px;
+        color: #4c4d56;
+        font-family: "Outfit", Outfit;
+        font-weight: 400;
+      }
+      
+      .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form select:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-moz-placeholder {
+        opacity: 0.95;
+        font-size: 14px;
+        color: #4c4d56;
+        font-family: "Outfit", Outfit;
+        font-weight: 400;
+      }
+      
+      .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form select:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-ms-input-placeholder {
+        opacity: 0.95;
+        font-size: 14px;
+        color: #4c4d56;
+        font-family: "Outfit", Outfit;
+        font-weight: 400;
+      }
