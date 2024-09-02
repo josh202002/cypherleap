@@ -1935,6 +1935,7 @@ textarea:-ms-input-placeholder {
   display: inline-block;
   border-radius: 35px;
   margin-bottom: 10px;
+  margin-top:-1em;
 }
 
 .techwix-hero-section .hero-content .sub-title span {
@@ -1956,6 +1957,7 @@ textarea:-ms-input-placeholder {
   line-height: 84px;
   color: #0e0e0e;
   margin-top: 15px;
+  width:120%;
 }
 
 .techwix-hero-section .hero-content p {
@@ -2014,7 +2016,7 @@ textarea:-ms-input-placeholder {
     bottom: -75px;
   }
   .techwix-hero-section .hero-content {
-    padding-top: 70px;
+    padding-top: 0px;
   }
   .techwix-hero-section .hero-images {
     padding-top: 50px;
@@ -4073,7 +4075,7 @@ textarea:-ms-input-placeholder {
   height: 130px;
   right: 0;
   left: 0px;
-  top: -30px;
+  top: 0px;
   background: #ffffff;
   transform: skewY(-3deg);
   transform-origin: 0;

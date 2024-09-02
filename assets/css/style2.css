@@ -15,7 +15,7 @@
     }
     @media(max-width: 767px){
         .logophone a img{
-            width: 12em;
+            width: 15em;
         }
         .logoweb{
             display: none;
@@ -92,5 +92,16 @@
         font-weight: 400;
       }
       
-
+      #indexoffer li{
+        font-size: 17px;
+      }
+      .indexoffer li{
+        font-size: 17px;
+      }
+      .indexoffer{
+        font-size: 17px;
+      }
+     .dropdown-menu{
+        padding-left: 40px;
+     }
       /*width="638px" height="907px"*/
