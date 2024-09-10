@@ -25,6 +25,9 @@
         .logoweb{
             display: none;
         }
+        .techwix-hero-section .hero-images .images {
+          bottom: 55px;
+      }
         
         
         .techwix-hero-section .hero-content .sub-title {
@@ -37,6 +40,11 @@
           margin-top: 0rem;
       }
         
+    }
+    @media(min-width:768px) and (max-width:992px){
+      .techwix-hero-section .hero-content .title {
+        width: 100%;
+    }
     }
     #padlock{
         width: 100px;
