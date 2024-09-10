@@ -11,7 +11,12 @@
         }
         .landingimage{
             width:500px;
+            margin-bottom: 5rem;
           }
+        .techwix-hero-section .hero-content p {
+          margin-bottom: 5rem;
+        }
+          
     }
     @media(max-width: 767px){
         .logophone a img{
@@ -25,6 +30,12 @@
         .techwix-hero-section .hero-content .sub-title {
             font-size:18px;
         }
+        .techwix-hero-section .hero-content .title {
+          width: 100%;
+        }
+        #landhead {
+          margin-top: 0rem;
+      }
         
     }
     #padlock{
@@ -98,10 +109,36 @@
       .indexoffer li{
         font-size: 17px;
       }
+      .drop a::before {
+        content: '⌄';
+        position: absolute;
+        margin-left: -20px;
+        margin-top: -4px;
+        
+      }
       .indexoffer{
         font-size: 17px;
       }
      .dropdown-menu{
         padding-left: 40px;
+        padding-right:40px;
      }
       /*width="638px" height="907px"*/
+      #landhead{
+        margin-top:3rem;
+      }
+      #testi{
+        padding-top: 100px;
+      }
+      #aboutcert{
+        padding-top:0px;
+      }
+      #roundabout{
+        border: .5px solid #e1e1e1;
+        text-align: center;
+        
+      }
+      #roundabout a{
+        font-size: 18px;
+        
+      }

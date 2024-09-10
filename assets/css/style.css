@@ -1953,11 +1953,11 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-hero-section .hero-content .title {
-  font-size: 72px;
-  line-height: 84px;
+  font-size: 50px;
+  line-height: 70px;
   color: #0e0e0e;
   margin-top: 15px;
-  width:120%;
+  width: 148%;
 }
 
 .techwix-hero-section .hero-content p {
@@ -4284,7 +4284,7 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-about-section-02 .about-02-left .section-title .title {
-  font-size: 42px;
+  font-size: 48px;
   line-height: 60px;
 }
 
@@ -6118,7 +6118,7 @@ textarea:-ms-input-placeholder {
   background: #f8f8f8;
   border-radius: 10px;
   overflow: hidden;
-  margin-left: 110px;
+  margin-left: 0px;
 }
 
 @media only screen and (max-width: 1399px) {
