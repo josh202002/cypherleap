@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://cypherleap.com/</loc>
+  <lastmod>2024-09-12T05:27:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cypherleap.com/who-are-we</loc>
+  <lastmod>2024-09-12T05:27:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cypherleap.com/our-offerings</loc>
+  <lastmod>2024-09-12T05:27:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cypherleap.com/contact</loc>
+  <lastmod>2024-09-12T05:27:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cypherleap.com/terms-and-conditions</loc>
+  <lastmod>2024-09-10T22:47:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cypherleap.com/privacy-policy</loc>
+  <lastmod>2024-09-12T05:27:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
