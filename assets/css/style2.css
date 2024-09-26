@@ -16,6 +16,9 @@
         .techwix-hero-section .hero-content p {
           margin-bottom: 5rem;
         }
+        #landhead {
+          margin-top: 3rem;
+      }
           
     }
     @media(max-width: 767px){
@@ -27,8 +30,7 @@
         }
         .techwix-hero-section .hero-images .images {
           bottom: 55px;
-      }
-        
+        }
         
         .techwix-hero-section .hero-content .sub-title {
             font-size:18px;
@@ -36,9 +38,8 @@
         .techwix-hero-section .hero-content .title {
           width: 100%;
         }
-        #landhead {
-          margin-top: 0rem;
-      }
+        
+      
         
     }
     @media(min-width:768px) and (max-width:992px){
@@ -133,7 +134,7 @@
      }
       /*width="638px" height="907px"*/
       #landhead{
-        margin-top:3rem;
+        margin-top:2rem;
       }
       #testi{
         padding-top: 100px;
